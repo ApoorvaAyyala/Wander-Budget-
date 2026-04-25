@@ -60,8 +60,8 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Generate Screen
 * **Tasks Performed in session:**
   * Create a [Mood Board](https://www.figma.com/design/LdXrJHGebuNcBAlWSHVPck/Untitled?node-id=0-1&p=f&t=z9qIqhZuj5tfzsM2-0) in Figmajam with pics from google, pinterest, dribble
-  * Pasted the pic in gpt to generate a [Prototype UI](https://chatgpt.com/g/g-p-6904ba0b52e88191bce60d9bcc918ad3-travel/c/691812ef-b5fc-8324-a49a-ee7db2d61a1d)
-  * Pasted gpt output in “lovable” to generate a Prototype UI
+  * Pasted the pic in gpt to generate a Prototype UI
+  * Pasted gpt output in “lovable” to generate a [Prototype UI](https://chatgpt.com/g/g-p-6904ba0b52e88191bce60d9bcc918ad3-travel/c/691812ef-b5fc-8324-a49a-ee7db2d61a1d)
 
 ### Day 6 (Part 1)
 * **Date:** Nov 21, 2025
@@ -77,7 +77,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * How does AI generate UI Design? Understand prompt -> Match with patterns of UI it learned -> Predict layout -> Choose Style
   * What is AI good at? Speed, Variations, Layout suggestions, Pattern recognition, auto generate components, Brainstorming
   * What is AI not good at? Deep UX insight, understanding Emotions, Real user context, Perfect Accessibility, Taste (Not reaching upto our expectations)
-* **Team’s Website links:**
+* **Website links:**
   * [FigmaMake](https://people-thing-16989149.figma.site)
   * [Website Prompt](https://www.figma.com/make/jhk2J2gK5tSzBsMSHPMieS/Solo-Traveller-App-Style-Guide?p=f&t=FjOgv2xVLyNsIUKA-0)
 
