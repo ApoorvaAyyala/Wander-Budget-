@@ -29,7 +29,8 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
 * **Tasks Performed in session:**
   * Prompt and User Flow of the Team:
     * [Prompt](https://chatgpt.com/share/690ed61f-f8c0-8007-b21b-c0d7ccd2c7b8)
-    * [User Flow](User Flow.png)
+    * [User Flow](Wander-Budget-/User Flow.png
+)
 
 ### Week 3
 * **Date:** Nov 8, 2025
