@@ -1,6 +1,8 @@
 # Wander-Budget
 A no-code website developed for Solo Traveller's between 18 and 25 years
 
+[WanderBudget Website](https://people-thing-16989149.figma.site)
+
 # Product Design with Generative AI
 
 Welcome to the bootcamp workflow and documentation for the Product Design with Generative AI program. This repository contains daily agendas and tasks performed during the sessions.
