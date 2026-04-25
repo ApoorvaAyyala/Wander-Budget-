@@ -11,7 +11,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
 
 ## 📅 Bootcamp Schedule & Workflow
 
-### Day 1
+### Week 1
 * **Date:** Oct 31, 2025
 * **Agenda:**
   * Product Design Fundamentals and Generative AI
@@ -19,7 +19,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Design = Blueprint+Who/How+Functionality
   * Design Thinking = Empathize Define Ideate Prototype Test (EDIPT)
 
-### Day 2
+### Week 2
 * **Date:** Nov 7, 2025
 * **Agenda:**
   * Day 2 Handout
@@ -31,7 +31,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
     * [Prompt](https://chatgpt.com/share/690ed61f-f8c0-8007-b21b-c0d7ccd2c7b8)
     * [User Flow](https://app.eraser.io/workspace/L0Tezxvo4FViSOnLempD?origin=share)
 
-### Day 3
+### Week 3
 * **Date:** Nov 8, 2025
 * **Agenda:**
   * User Flow
@@ -43,7 +43,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
 * **Tasks Performed in session:**
   * [Wire Frames](https://app.visily.ai/projects/bf51d681-82b9-475b-a796-0cfc2b813be4/boards/2318610)
 
-### Day 4
+### Week 4
 * **Date:** Nov 14, 2025
 * **Agenda:**
   * Ideation
@@ -52,7 +52,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Provided Ideation Template
   * Brainstorming/Ideation Figjam
 
-### Day 5
+### Week 5
 * **Date:** Nov 15, 2025
 * **Agenda:**
   * Concept Visualisation
@@ -65,7 +65,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Pasted the pic in gpt to generate a Prototype UI
   * Pasted gpt output in “lovable” to generate a [Prototype UI](https://chatgpt.com/g/g-p-6904ba0b52e88191bce60d9bcc918ad3-travel/c/691812ef-b5fc-8324-a49a-ee7db2d61a1d)
 
-### Day 6 (Part 1)
+### Week 6 (Part 1)
 * **Date:** Nov 21, 2025
 * **Agenda:**
   * Last Class Revision
@@ -83,7 +83,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * [FigmaMake](https://people-thing-16989149.figma.site)
   * [Website Prompt](https://www.figma.com/make/jhk2J2gK5tSzBsMSHPMieS/Solo-Traveller-App-Style-Guide?p=f&t=FjOgv2xVLyNsIUKA-0)
 
-### Day 6 (Part 2)
+### Week 6 (Part 2)
 * **Date:** Nov 21, 2025
 * **Agenda:**
   * Fill out Google form with projects built in the last weeks.
