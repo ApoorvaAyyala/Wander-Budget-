@@ -42,7 +42,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Accessibility
   * No Code Tools
 * **Tasks Performed in session:**
-  * [Wire Frames](https://app.visily.ai/projects/bf51d681-82b9-475b-a796-0cfc2b813be4/boards/2318610)
+  * ![Wire Frames](WireFrames.pnq)
 
 ### Week 4
 * **Date:** Nov 14, 2025
@@ -62,8 +62,12 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Design Style / Design Direction
   * Generate Screen
 * **Tasks Performed in session:**
-  * Create a [Mood Board](https://www.figma.com/design/LdXrJHGebuNcBAlWSHVPck/Untitled?node-id=0-1&p=f&t=z9qIqhZuj5tfzsM2-0) in Figmajam with pics from google, pinterest, dribble
-  * Pasted the pic in gpt to generate a Prototype UI
+  * Created a Mood Board.
+  * Mood Boards:
+    ![MoodBoard 1](moodboard1.png)
+    ![MoodBoard 2](moodboard2.png)
+    ![MoodBoard 3](moodboard3.png)
+  * Pasted the pic in gpt to generate a Prototype UI.
   * Pasted gpt output in “lovable” to generate a [Prototype UI](https://chatgpt.com/g/g-p-6904ba0b52e88191bce60d9bcc918ad3-travel/c/691812ef-b5fc-8324-a49a-ee7db2d61a1d)
 
 ### Week 6 (Part 1)
