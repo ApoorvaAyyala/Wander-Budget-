@@ -42,7 +42,7 @@ Welcome to the bootcamp workflow and documentation for the Product Design with G
   * Accessibility
   * No Code Tools
 * **Tasks Performed in session:**
-  * ![Wire Frames](WireFrames.pnq)
+  * ![Wire Frames](WireFrames.png)
 
 ### Week 4
 * **Date:** Nov 14, 2025
